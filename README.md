@@ -16,16 +16,18 @@ To install the project dependencies, run:
 
 ```bash
 npm install
-
+```
 
 Running Tests
 To run the Cypress tests, execute:
 
 ```bash
 npx cypress open
+```
 This will open the Cypress Test Runner, allowing you to run the tests interactively. Alternatively, you can run the tests in headless mode using:
 
 ```bash
 npx cypress run
+```
 
 
